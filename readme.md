@@ -16,5 +16,5 @@ Open the server address in Chrome and allow microphone access.
 ### Test Voice Commands.
 By default this is set to "always listen" so no trigger word is required.
 
-1) "Open Gmail"  
-2) "Open the news"
+1) "Open Gmail" / "close Gmail"  
+2) "Open the news" / "close the news"  
