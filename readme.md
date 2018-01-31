@@ -10,7 +10,7 @@ This exploration is web based built using a healthy dose of HTML5, CSS3, and Jav
 
 
 ## Quickstart
-Download and run the directory through a local web server.
+Download and run the directory through a local web server. I use [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en)  
 Open the server address in Chrome and allow microphone access.
 
 ### Test Voice Commands.
